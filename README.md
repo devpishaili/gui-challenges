@@ -1,2 +1,2 @@
-# gui-challenges
+# GUI Challenges
  Up-to-date GUI Challenges as organized by Google Chrome Developers Youtube Channel
